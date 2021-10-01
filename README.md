@@ -1,4 +1,4 @@
-<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/60649-developer.gif" width="50%">
+<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/60649-developer.gif" width="20%">
 
 ### Hello, I'm Shahzeb Naqvi 👋
 <!--
