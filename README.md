@@ -1,5 +1,5 @@
 <div align="center" >
- <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/34260-webdev.gif"   loop=infinite></div>
+ <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/34260-webdev.gif" width="50%"  loop=infinite></div>
 <h3 align="center"> Hi There
     <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" 
          alt="Waving hand animated gif"
