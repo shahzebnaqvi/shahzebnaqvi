@@ -1,5 +1,5 @@
+<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/60649-developer.gif" width="50%">
 
-<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/60649-developer.gif">
 ### Hello, I'm Shahzeb Naqvi 👋
 <!--
 **shahzebnaqvi/shahzebnaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
