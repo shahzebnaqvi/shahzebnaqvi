@@ -8,7 +8,7 @@
     I'm Shahzeb Naqvi!
 </h3>
 <div >
- <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif"   loop=infinite></div>
+ <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="60%"  loop=infinite></div>
 
 
 ### Contact
