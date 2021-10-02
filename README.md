@@ -1,11 +1,11 @@
 
 
-<h3> Hi There
+<h2> Hi There
     <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm Shahzeb Naqvi!
+  </h2><h3> I'm Shahzeb Naqvi!
 </h3>
 <div >
  <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="60%"  loop=infinite></div>
