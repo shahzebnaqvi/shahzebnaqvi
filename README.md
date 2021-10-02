@@ -6,7 +6,7 @@
     I'm Shahzeb Naqvi!
 </h3>
 <div >
- <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="30%"  loop=infinite></div>
+ <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="40%"  loop=infinite></div>
 
 
 ### Contact
