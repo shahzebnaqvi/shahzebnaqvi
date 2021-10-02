@@ -1,3 +1,5 @@
+
+
 <h3> Hi There
     <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -6,7 +8,7 @@
     I'm Shahzeb Naqvi!
 </h3>
 <div >
- <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="40%"  loop=infinite></div>
+ <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="50%"  loop=infinite></div>
 
 
 ### Contact
