@@ -45,11 +45,23 @@ Here's my tech stack I'm currently used to and prefer:
 <div>
  
 ### Stats
+ 
+    
+ <table style="border: 0px solid black;">
+     <tr style="border: 0px solid black;">
+        <td style="border: 0px solid black;">
+        <a href="https://stackoverflow.com/users/17131562/shahzeb-naqvi"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17131562&theme=dark" /></a>
+        </td> 
+        <td style="border: 0px solid black;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebnaqvi&layout=compact&theme=nord" /> 
+        </td>
+        <td style="border: 0px solid black;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzebnaqvi&theme=nord&hide=stars" /> 
+        </td>   
+</tr>
+</table>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzebnaqvi&theme=nord&hide=stars" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebnaqvi&layout=compact&theme=nord" />
-
- ### Featured
+### Featured
  
 Check out some projects below 👇
 
