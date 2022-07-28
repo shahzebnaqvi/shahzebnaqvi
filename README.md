@@ -7,6 +7,7 @@
          width="45" />
   </h2><h3> I'm Shahzeb Naqvi!
 </h3>
+<p>A passionate Application Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Laravel / Php / Flutter / MySql / Wordpress and some other cool libraries and frameworks. 😊</p>
 <div>
  <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="60%"  loop=infinite></div>
 
