@@ -68,7 +68,7 @@ Check out some projects below 👇
 https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-993b-6def00faf059.mp4
 
 
-[![Shahzeb Naqvi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahzebnaqvi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shahzeb Naqvi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahzebnaqvi&theme=dracula)](https://github.com/shahzebnaqvi)
 
 <!--
 **shahzebnaqvi/shahzebnaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
