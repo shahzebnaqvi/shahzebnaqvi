@@ -52,9 +52,7 @@ Here's my tech stack I'm currently used to and prefer:
         <td>
         <a href="https://stackoverflow.com/users/17131562/shahzeb-naqvi"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17131562&theme=dark" /></a>
         </td> 
-        <td>
 
-         </td>  
 </tr>
 </table>
 
