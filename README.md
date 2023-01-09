@@ -53,12 +53,11 @@ Here's my tech stack I'm currently used to and prefer:
         <a href="https://stackoverflow.com/users/17131562/shahzeb-naqvi"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17131562&theme=dark" /></a>
         </td> 
         <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebnaqvi&layout=compact&theme=nord" /> 
-        </td>  
+
+         </td>  
 </tr>
 </table>
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzebnaqvi&theme=nord&hide=stars" /> 
 
 
 ### Featured
