@@ -1,5 +1,6 @@
 
 
+
 <h2> Hi There
     <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -63,6 +64,8 @@ Here's my tech stack I'm currently used to and prefer:
 Check out some projects below 👇
 
 https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-993b-6def00faf059.mp4
+
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shahzebnaqvi&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="shahzebnaqvi"  />
 
 
 [![Shahzeb Naqvi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahzebnaqvi&theme=dracula)](https://github.com/shahzebnaqvi)
