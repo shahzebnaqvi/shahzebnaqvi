@@ -65,10 +65,14 @@ Check out some projects below 👇
 
 https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-993b-6def00faf059.mp4
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shahzebnaqvi&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="shahzebnaqvi"  />
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzebnaqvi&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzebnaqvi&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzebnaqvi&theme=dracula"  width=60% />
 
 
-[![Shahzeb Naqvi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahzebnaqvi&theme=dracula)](https://github.com/shahzebnaqvi)
 
 <!--
 **shahzebnaqvi/shahzebnaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
