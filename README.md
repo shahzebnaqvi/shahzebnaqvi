@@ -70,7 +70,7 @@ https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzebnaqvi&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzebnaqvi&theme=dracula"  width=60% />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzebnaqvi&theme=dracula](https://github-readme-streak-stats.herokuapp.com/?user=shahzebnaqvi&theme=dracula"  width=60% />
 
 
 
